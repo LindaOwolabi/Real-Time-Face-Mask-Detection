@@ -14,7 +14,7 @@ Real-time processing: The system operates in real-time, allowing for immediate f
 This process involves a combination of Machine Learning, Image Processing and pattern recognition techniques to achieve accurate results.
 For my real time detection i used Python, Tensorflow, Opencv and a pre-trained MobileNetV2 model.
 
-Process Walkthrough:
+PROCESS WALKTHROUGH:
 
 * Data collection: The training dataset (from Kaggle.com) consisted of images labeled as "with mask" and "without mask."
   
